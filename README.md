@@ -1,4 +1,4 @@
-# projeto_mobile_final
+# app_associacao
 
 A new Flutter project.
 
